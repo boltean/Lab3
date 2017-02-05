@@ -58,11 +58,11 @@ namespace MVClab3
             //   appId: "",
             //   appSecret: "");
 
-            //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
-            //{
-            //    ClientId = "",
-            //    ClientSecret = ""
-            //});
+            app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
+            {
+                ClientId = "1068083221776-racusi3v3c42tok6ood8gej0mh1h5okv.apps.googleusercontent.com",
+                ClientSecret = "_XrI6jwMT1YSz_FFCeql6W8b"
+            });
         }
     }
 }

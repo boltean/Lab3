@@ -79,3 +79,4 @@ C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson 3\Lab3\MVClab3\MVClab3\bin
 C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson 3\Lab3\MVClab3\MVClab3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson 3\Lab3\MVClab3\MVClab3\obj\Debug\MVClab3.dll
 C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson 3\Lab3\MVClab3\MVClab3\obj\Debug\MVClab3.pdb
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson 3\Lab3\MVClab3\MVClab3\obj\Debug\MVClab3.csprojResolveAssemblyReference.cache
